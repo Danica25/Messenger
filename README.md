@@ -1,9 +1,12 @@
 # Messenger
 
 APP FEATURES:
-      1.Sign in with google.
-      2.Search users with their username.
-      3.Send user message real time.
+
+   1.Sign in with google.
+     
+   2.Search users with their username.
+   
+   3.Send user message real time.
 
 Steps:
   1.Create Flutter project.
